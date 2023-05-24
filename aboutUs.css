@@ -1,0 +1,71 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    background-color: black;
+  }
+
+.flex-container{
+    margin-top: 40px;
+}
+
+
+img{
+    height: 600px;
+    border-radius: 12px;
+    
+}
+
+.navbar-brand{
+    color: white;
+  }
+  
+  .nav-link{
+    color: white;
+  }
+  
+  .navbar-nav{
+    
+    gap: 18px;
+    justify-content: center;
+  
+  }
+
+  .carousel{
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .carousel-item img {
+    margin: 0 auto;
+  }
+
+
+.descriptionOnPicture{
+    color: white;
+    text-align: center;
+    margin-left: 13%;
+    margin-right: 13%;
+    margin-top: 25px;
+    
+    
+}
+
+
+.container-fluid {
+    margin-top: 5%;
+}
+
+
+hr {
+    color: white;
+    border-width: 2px;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 12px;
+
+  }
+  #family{
+    font-family: 'Bruno Ace', cursive;
+  }

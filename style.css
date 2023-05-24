@@ -1,3 +1,4 @@
+
 html, body {
     height: 100%;
     margin: 0;
@@ -8,8 +9,8 @@ html, body {
 img{
     background-repeat:no-repeat; 
     width:100% ;
-    height: 96%;
-    height: 80vh;
+    height: 100%;
+    height: 70vh;
 
 }
 
@@ -30,8 +31,13 @@ img{
 
 
 .flex-container {
-
-  height:15vh;
+  height:5vh;
 }
+
+#family{
+  font-family: 'Bruno Ace', cursive;
+  font-size: large;
+}
+
 
 
