@@ -24,7 +24,7 @@ img{
 }
 
 .navbar-nav{
-  gap: 30%;
+  gap: 18px;
   justify-content: center;
 
 }
