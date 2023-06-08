@@ -1,0 +1,84 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    background-color: black;
+  }
+
+
+  .navbar-brand{
+    color: white;
+  }
+  
+  .nav-link{
+    color: white;
+  }
+
+  .navbar-nav{
+    gap: 18px;
+    justify-content: center;
+  
+  }
+
+  .flex-container {
+    height:5vh;
+  }
+  
+  #family{
+    font-family: 'Bruno Ace', cursive;
+  }
+
+
+  .other-hr{
+    color: white;
+    border-width: 2px;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 12px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+  hr{
+    color: white;
+    border-width: 2px;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 12px;
+    margin-top: 10%;
+    
+
+  }
+
+
+  .name{
+
+    color: white;
+    margin-left: 30px;
+}
+
+
+
+.card{
+    
+    background-color: black;
+    border-color: black;
+   
+}
+
+
+
+.container{
+    margin-top: 7%;
+    display: flex; 
+    justify-content: left; 
+    align-items: center;
+}
+
+
+
+
+
+
+
